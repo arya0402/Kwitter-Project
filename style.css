@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(to right top, #f54242, #f59e42, #f5f542, #4df794, #4df1f7, #4842f5, #b042f5, #f53bc0);
+}
+
+.login_div {
+    background-image: linear-gradient(#6cf74d, #00ffbb, #4df4f7, #4daaf7, #ff96d9, #f707eb);
+    border-color: black;
+    border-radius: 5%;
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    height: 100%;
+}
+
+.header {
+    color: #ff00b3;
+}
