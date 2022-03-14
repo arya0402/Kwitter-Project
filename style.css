@@ -15,6 +15,7 @@ body{
     border-style: solid;
     color: black;
     height: 100%;
+    margin-left: 400px;
 }
 
 .header {
