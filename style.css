@@ -21,3 +21,7 @@ body{
 .header {
     color: #ff00b3;
 }
+
+#room_name {
+    width: 450px;
+}
